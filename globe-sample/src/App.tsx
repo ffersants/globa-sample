@@ -1,7 +1,7 @@
 import React from "react";
 import Globe from "react-globe.gl";
 import { Button, Popover, Whisper } from "rsuite";
-import bg from "./assets/Black_on_white_dotted_world_map_vector.jpg";
+import bg from "./assets/dotted-texture-for-globe.jpg";
 import { renderToStaticMarkup } from "react-dom/server";
 
 function App() {
